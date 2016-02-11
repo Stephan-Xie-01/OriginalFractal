@@ -8,7 +8,7 @@ int deg =0;
 public void draw() 
 {
 	fractal(400,400, 400);
-	deg += 10;
+	deg += 360;
 	//opac -= 20;
 }
 
